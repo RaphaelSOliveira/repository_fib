@@ -8,8 +8,8 @@ public class CalculoCombustivel
 {
     
     public static void main(String[] args) {
-            double valor_gasolina = 3.50;
-            double valor_alcool = 2.70;
+            double valor_gasolina = 4.29;
+            double valor_alcool = 3.59;
             double rendimento_gasolina = valor_gasolina * 0.7;
             
             if (rendimento_gasolina < valor_alcool){
