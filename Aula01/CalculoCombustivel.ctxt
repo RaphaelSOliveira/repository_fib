@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=CalculoCombustivel
+comment0.text=\r\nRaphael\ Serra\ de\ Oliveira\r\nDados\ os\ valores\ do\ \u00C1cool\ e\ da\ Gasolina,\ descubra\ qual\ \u00E9\ o\ melhor\ sabendo\ que\ a\ gasolina\ \u00E9\r\n70%\ mais\ perform\u00E1tica.\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

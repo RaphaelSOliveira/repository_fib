@@ -8,7 +8,27 @@
 public class OlaMundoJava
 {
     public static void main(String[] args){
-        System.out.println("Meu primeiro código em JAVA");
+        //float  valorSalario = 1000.00f;
+        double  valorSalario = 1000.00;
+        int    numeroDependentes = 5;
+        String nomeCidade = "Bauru";
+        char   letra = 'B';
+        boolean temSaldo = true;
         
-    }   
+        double valor1 = 10.20;
+        double valor2 = 30.20;
+        double soma = valor1 + valor2;
+        
+        if(soma>100){
+            System.out.println("A soma do " + valor1 + " mais " + valor2 + " é maior que 100");
+        }
+        else{
+            System.out.println("A soma do " + valor1 + " mais " + valor2 + " é menor que 100");
+        }   
+    
+        for(int i=0; i<10; i++){
+            System.out.println(i);
+        }
+    }
 }
+
