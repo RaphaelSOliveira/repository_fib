@@ -12,7 +12,12 @@ public class CotacaoMoeda
         double cotacaoDolar = 4.25;
         double valorDolar = valorReais * cotacaoDolar;
         
-       
-        
+        if(valorDolar > 100 & valorDolar <= 1000){
+            valorDolar = valorDolar * 0.95;
+        }
+        if(valorDolar > 1000){
+            valorDolar = valorDolar * 0.90;
+        }
+        System.out.println("O valor é " + valorDolar);
     }
 }
