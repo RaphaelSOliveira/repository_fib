@@ -13,11 +13,11 @@ public class APP
     boolean validaJoao;
     String  imcJoao;
     
-    //Chamando e método que valida e o CPF e mostrando retorno
+    //Chamando método que valida o CPF e mostrando retorno
     validaJoao = joao.validateCPF(joao.cpf);
     System.out.println(validaJoao);
     
-    //Chamando e método que valida e o CPF e mostrando retorno
+    //Chamando método que valida CPF e mostrando retorno
     imcJoao = joao.calculaIMC(joao.weight,joao.height);
     System.out.println(imcJoao);    
     }
