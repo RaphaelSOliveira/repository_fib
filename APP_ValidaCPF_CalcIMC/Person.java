@@ -13,7 +13,7 @@ public class Person
        
        //Métodos
        
-       // Função que valida o CPF.
+       // Método que valida o CPF.
         public static boolean validateCPF(String cpf) {
             
         // Remendo os pontos e o traço: "323.456.134-34"   ---->    "32345612334"
@@ -87,7 +87,7 @@ public class Person
        }
        
        
-       // Função que calcula o IMC.
+       // Método que calcula o IMC.
        public static String calculaIMC(double weigth,double height){
            
            // Calculando IMC
