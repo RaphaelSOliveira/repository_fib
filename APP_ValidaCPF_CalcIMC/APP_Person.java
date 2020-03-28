@@ -1,4 +1,4 @@
-public class APP
+public class APP_Person
 {
     public static void main( String[] args ){
     

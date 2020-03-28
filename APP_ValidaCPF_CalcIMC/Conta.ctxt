@@ -1,3 +1,11 @@
 #BlueJ class context
 comment0.target=Conta
-numComments=1
+comment1.params=valor
+comment1.target=double\ deposito(double)
+comment2.params=valor
+comment2.target=boolean\ saque(double)
+comment3.params=pessoa
+comment3.target=void\ donoConta(Person)
+comment4.params=
+comment4.target=double\ mostraSaldo()
+numComments=5
