@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Salario
+comment1.params=
+comment1.target=double\ salarioBruto()
+comment2.params=
+comment2.target=double\ descontoINSS()
+comment3.params=
+comment3.target=double\ descontoIR()
+comment4.params=
+comment4.target=double\ salarioLiquido()
+numComments=5
