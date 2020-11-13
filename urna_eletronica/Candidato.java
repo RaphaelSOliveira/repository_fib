@@ -1,4 +1,4 @@
-public class Candidato extends Eleitor implements Candidatura
+public class Candidato extends Eleitor
 {
     // variáveis 
     String cargo;
