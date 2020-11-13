@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Urna
+comment1.params=voto
+comment1.target=void\ registraVoto(Voto)
+comment2.params=
+comment2.target=int\ totalVotos()
+comment3.params=candidato
+comment3.target=int\ votosCandidato(Candidato)
+numComments=4

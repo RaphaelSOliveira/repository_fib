@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=Candidato
+comment1.params=cargo\ partido\ numero
+comment1.target=Candidato(java.lang.String,\ java.lang.String,\ int)
+numComments=2

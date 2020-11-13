@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=Eleitor
+comment1.params=tituloEleitor\ localVotacao\ nome\ rg\ data
+comment1.target=void\ setAtributos(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+numComments=2
