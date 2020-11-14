@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=Voto
+comment1.params=eleitor\ candidato
+comment1.target=void\ setVoto(Eleitor,\ Candidato)
+numComments=2

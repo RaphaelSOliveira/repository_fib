@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Candidato
+comment1.params=cargo\ partido\ numero
+comment1.target=Candidato(java.lang.String,\ java.lang.String,\ int)
+comment2.params=cargo
+comment2.target=void\ setCargo(java.lang.String)
+comment3.params=partido
+comment3.target=void\ setPartido(java.lang.String)
+comment4.params=numero
+comment4.target=void\ setNumero(int)
+numComments=5
